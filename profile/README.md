@@ -13,6 +13,7 @@ Papyrus lets you store, organize, read, and annotate your book library across al
 | [client](https://github.com/PapyrusReader/client) | Flutter app for Android, iOS, Windows, macOS, Linux, and Web |
 | [server](https://github.com/PapyrusReader/server) | Back-end for self-hosted sync and file storage |
 | [website](https://github.com/PapyrusReader/website) | Landing page |
+| [docs](https://github.com/PapyrusReader/docs) | Documentation |)
 
 ### Links
 
