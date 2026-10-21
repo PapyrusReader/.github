@@ -1,6 +1,6 @@
 ## Papyrus
 
-A free, open-source e-book reader and library manager with no subscriptions, no tracking, and no lock-in. Your books, your data, on every device. Built with Flutter, Papyrus runs on Android, iOS, Windows, macOS, Linux, and the Web, with a dedicated e-ink friendly mode for comfortable reading on e-paper displays.
+A free and open-source e-book reader and library manager with no subscriptions, no tracking, and no lock-in, that manages your books on any device. Built with Flutter, Papyrus runs on Android, iOS, Windows, macOS, Linux, and the Web, with a dedicated e-ink friendly mode for comfortable reading on e-paper displays.
 
 ### About
 
