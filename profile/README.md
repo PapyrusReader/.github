@@ -15,10 +15,12 @@ Papyrus lets you store, organize, read, and annotate your book library across al
 | [reader](https://github.com/PapyrusReader/reader) | A self-contained book viewer library |
 | [website](https://github.com/PapyrusReader/website) | Landing page |
 | [docs](https://github.com/PapyrusReader/docs) | Documentation |
+| [observability](https://github.com/PapyrusReader/observability) | Observability infrastructure |
 
 ### Links
 
-- [Website](https://papyrus-delta.vercel.app/)
+- [Website](https://papyrus-reader.com/)
+- [Application (Web)](https://app.papyrus-reader.com)
 - [Documentation](https://papyrusreader.github.io/client/)
 
 ### Contributing
